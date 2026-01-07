@@ -86,11 +86,11 @@ If you are looking for a **readable, modifiable, and inspectable** BDPT referenc
 
 ## Acknowledgements
 
-- **Wenzel Jakob**
+- Prof. **Wenzel Jakob**
   - For open-sourcing Nori and providing a rigorous and well-structured rendering curriculum
-- **Eric Veach**  
+- Dr. **Eric Veach**  
   - For his seminal 1997 Ph.D. thesis, ***ROBUST MONTE CARLO METHODS  FOR LIGHT TRANSPORT SIMULATION***, which laid the theoretical foundations of modern Monte Carlo light transport, including path integrals, multiple importance sampling, and bidirectional path tracing.
-- **Ling-Qi Yan**  
+- Prof. **Ling-Qi Yan**  
   - For providing valuable theoretical guidance and clarifications that helped resolve critical conceptual issues related to bidirectional path tracing.
 
 - Everyone contributing to open graphics education and open-source rendering research
